@@ -1,0 +1,25 @@
+/*CSS Document*/
+.header {
+    display: flex;
+    justify-content: space-around;
+    background-color: #1f2937;
+    width: 100%;
+}
+
+.bark {
+    color:  #f9faf8;
+    font-size: 24px;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    font-size: 18px;
+    list-style-type: none;
+}
+
+.nav a {
+    text-decoration: none;
+    color: #e5e7eb;
+}
