@@ -30,6 +30,10 @@
     justify-content: space-around;
 }
 
+.signup-box {
+    margin-left: 2em;
+}
+
 .signup-box-content {
     display: flex;
     flex-direction: column;
@@ -39,10 +43,18 @@
     background-color: #1f2937;
 }
 
+#gdog {
+    width: 80%;
+}
+
 .signup-box-button {
     background-color: #3882f6;
     border-radius: 5px;
-    width: 25%;
+    width: 30%;
+}
+
+.signup-box-button:hover {
+    background-color: #2f6df1;
 }
 
 .doggo-text {
