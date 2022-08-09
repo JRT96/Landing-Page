@@ -23,3 +23,36 @@
     text-decoration: none;
     color: #e5e7eb;
 }
+
+.content {
+    display: flex;
+    background-color: #1f2937;
+    justify-content: space-around;
+}
+
+.signup-box-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 50%;
+    background-color: #1f2937;
+}
+
+.signup-box-button {
+    background-color: #3882f6;
+    border-radius: 5px;
+    width: 25%;
+}
+
+.doggo-text {
+    color: #f9faf8;
+    font-size: 24px;
+    margin-left: 48px;
+    font-weight: bold;
+}
+
+.text-box {
+    color: #e5e7eb;
+    font-size: 18px;
+}
